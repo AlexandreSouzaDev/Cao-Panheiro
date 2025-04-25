@@ -1,0 +1,15 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "dev:all": "concurrently \"php artisan serve\" \"npm run dev\"",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2",
+    "laravel-vite-plugin": "^0.8.0",
+    "vite": "^4.0.0"
+  }
+}
