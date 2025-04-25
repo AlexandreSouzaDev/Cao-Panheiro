@@ -48,7 +48,7 @@ php artisan storage:link
 Acesse em: http://localhost:8000
 
 👨‍💻 Autor
-Este projeto foi idealizado, desenvolvido e mantido por [Seu Nome Aqui], como parte de um portfólio pessoal.
+Este projeto foi idealizado, desenvolvido e mantido por Alexandre de Souza Moreia, como parte de um portfólio pessoal.
 
 ⚠️ Termos de uso
 Este é um projeto autoral protegido por direitos autorais.
